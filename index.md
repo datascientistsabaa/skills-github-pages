@@ -1,5 +1,5 @@
 ---
 # Welcome to my blog
-## My Coding Journey
+### My Coding Journey
 ---
 
